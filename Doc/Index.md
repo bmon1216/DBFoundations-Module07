@@ -13,6 +13,7 @@ User Defined Functions
 A UDF is a custom function which accepts a parameter, does an action, and then returns the result of this action. Because a UDF is created by us, we can store the function in the database where it can be called any number of times. The customization of these functions allows for flexibility which can provide detail reporting along with improvements to the database performance. UDF’s also range in complexity. A simple design, such as seen in figure 7.1, can be used to perform a basic multiplication action. Note that the “dbo.” is included in the function name. UDF’s require the schema name when being defined. 
 
 
+Doc/UDF.PNG
 #### FIGURE 7.1 – UDF FOR MULTIPLICATION, WHERE SELECTED INPUT IS 12 & 9
 
 
