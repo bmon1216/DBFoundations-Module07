@@ -1,10 +1,10 @@
-*Bryan Mon *
+Bryan Mon
 
-*February 24, 2021 *
+February 24, 2021 
 
-*IT FDN 130 A Wi 21: Foundations of Databases & SQL Programming *
+IT FDN 130 A Wi 21: Foundations of Databases & SQL Programming 
 
-*Assignment 07 *
+Assignment 07 
 
 # SQL Functions
 ## Introduction
